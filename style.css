@@ -45,6 +45,7 @@ button {
   border: none;
   padding: 13px 40px;
   border-radius: 5px;
+  cursor: pointer;
 }
 button a {
   text-decoration: none;
@@ -182,9 +183,18 @@ button a {
 .goingtToFullHeading {
   text-align: center;
   text-transform: capitalize;
-  margin: 50px 0px 70px 0px;
+  margin: 0px 0px 60px 0px;
 }
 .goingtToFullHeading h1 {
   font-size: 40px;
   font-family: 'Roboto', sans-serif;
+}
+#sTh{
+  margin: 80px 0px 80px 0px;
+}
+#sFo{
+  margin: 80px 0px 80px 0px;
+}
+#sFi{
+  margin: 0px 0px 60px 0px;
 }
