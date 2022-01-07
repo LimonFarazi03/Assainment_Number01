@@ -64,6 +64,7 @@ button a {
   margin-top: 15px;
   font-size: 14px;
   font-weight: 401;
+  text-transform: capitalize;
 }
 .boxWrapper {
   overflow: hidden;
@@ -141,4 +142,40 @@ button a {
   color: #3E3E3E;
   width: 470px;
   text-align: justify;
+}
+
+.goingToFullImg {
+  width: 550px;
+  float: left;
+}
+.goingToFullImg img {
+  width: 100%;
+}
+.goingToFullContent {
+  width: 500px;
+  float: right;
+}
+.goingToFullContent h1 {
+  font-size: 40px;
+  margin: 90px 0px 0px 0px;
+}
+.goingToFullContent p {
+  text-align: justify;
+  margin: 10px 0px 25px 0px;
+  color: #3E3E3E;
+}
+#ft{
+  background: #0B0D17;
+  color: white;
+  text-align: center;
+}
+.footerContent{
+  margin: 25px 0px;
+}
+.footerContent h2 {
+  font-size: 35px;
+  margin: 0px 0px 15px 0px;
+}
+.footerContent h2 {
+  font-family: 'Lobster', cursive;
 }
