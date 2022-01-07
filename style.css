@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+}
+section{
+  margin: 25px 0px;
+}
+.container{
+  width: 1170px;
+  margin: auto;
+  overflow: hidden;
+}
+.topCntHeading {
+  width: 500px;
+  margin: 140px 0px 0px 0px;
+  float: left;
+}
+.topCntHeading h1 {
+  font-size: 45px;
+  margin: 0px 0px 15px 0px;
+  border-left: 5px solid #FF5959;
+  border-radius: 5px;
+  padding: 0px 0px 0px 10px;
+}
+.ChgClr{
+  color: #FFAD5A;
+  font-family: 'Lobster', cursive;
+}
+.topCntHeading p {
+  text-align: justify;
+  font-size: 17px;
+  margin: 0px 0px 15px 0px;
+  color: #3E3E3E;
+}
+button {
+  background: #FF5959;
+  border: none;
+  padding: 13px 40px;
+  border-radius: 5px;
+}
+button a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+}
+.topCntImage {
+  width: 400px;
+  float: right;
+}
+.topCntImage img {
+  width: 100%;
+}
+.topCntHeading h5 {
+  color: #3E3E3E;
+  margin-top: 15px;
+  font-size: 14px;
+  font-weight: 401;
+}
+.boxWrapper {
+  overflow: hidden;
+}
+.boxHedding {
+  text-align: center;
+  margin: 0px 0px 30px 0px;
+}
+.boxHedding h1 {
+  font-size: 40px;
+  color: #13103A;
+}
+.box {
+  width: 290px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 10px 30px 40px 30px;
+  float: left;
+  margin: 0px 0px 0px 30px;
+  border-radius: 13px;
+}
+.box img {
+  width: 100px;
+}
+.box h1 {
+  margin: 8px 0px;
+}
+.box p {
+  text-align: justify;
+  font-size: 15px;
+  color: #3E3E3E;
+}
+.b1{background: #EDF5F6;}
+.b2{background: #FFEEEE;}
+.b3{background: #FFF4D6;}
+
+.developimg {
+  width: 350px;
+  float: left;
+}
+.developimg img {
+  width: 100%;
+}
+.developContent {
+  width: 740px;
+  float: right;
+}
+.developContent h1 {
+  font-size: 40px;
+  margin: 20px 0px 30px 0px;
+}
+.developContent p {
+  color: #3E3E3E;
+  margin: 15px 0px 25px 0px;
+  width: 470px;
+  text-align: justify;
+}
