@@ -109,7 +109,7 @@ button a {
   width: 100%;
 }
 .developContent {
-  width: 740px;
+  width: 720px;
   float: right;
 }
 .developContent h1 {
@@ -179,6 +179,11 @@ button a {
 }
 .footerContent h2 {
   font-family: 'Lobster', cursive;
+}
+.ChgangeClr{
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+    font-size: 45px;
 }
 .goingtToFullHeading {
   text-align: center;
