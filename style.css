@@ -179,3 +179,12 @@ button a {
 .footerContent h2 {
   font-family: 'Lobster', cursive;
 }
+.goingtToFullHeading {
+  text-align: center;
+  text-transform: capitalize;
+  margin: 50px 0px 70px 0px;
+}
+.goingtToFullHeading h1 {
+  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
+}
